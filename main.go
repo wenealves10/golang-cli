@@ -8,5 +8,4 @@ import (
 func main() {
 	appCli := app.GeneratorCli()
 	appCli.Run(os.Args)
-
 }
